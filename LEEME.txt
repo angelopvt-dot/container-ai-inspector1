@@ -1,0 +1,9 @@
+Container AI Inspector 1.1 — prototipo integrado
+
+Publica todos los archivos y la carpeta documentos/ en Cloudflare Pages o GitHub Pages. No abras index.html con file:// para cámara: usa HTTPS.
+
+Incluye cámara de foto, cámara en vivo con muestreo, buscador de criterios por naviera, fuente original y documentos de consulta.
+
+La IA requiere configurar worker.js en Cloudflare Workers con secreto OPENAI_API_KEY y conectar su URL en la aplicación. Los criterios NO están validados para decisiones operativas. No hay integración automática entre detección IA y base de criterios; es una etapa posterior.
+
+Antes de distribución pública revisa permisos/licencias de los PDF y retira los que no se puedan redistribuir.
