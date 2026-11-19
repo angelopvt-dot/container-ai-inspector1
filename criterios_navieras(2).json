@@ -1,0 +1,408 @@
+[
+  {
+    "id": "CR-001",
+    "grupo": "ISO",
+    "componente_original": "END ISO",
+    "valores": {
+      "IICL-6": "5",
+      "ML DV": "5",
+      "HALO DV": "5",
+      "MSC DRY": "5",
+      "ONE DV": "5"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-002",
+    "grupo": "ISO",
+    "componente_original": "ENTIRE ISO",
+    "valores": {
+      "IICL-6": "10",
+      "ML DV": "10",
+      "HALO DV": "10",
+      "MSC DRY": "10",
+      "ONE DV": "10"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-003",
+    "grupo": "RAILS",
+    "componente_original": "BOTTOM RAILS",
+    "valores": {
+      "IICL-6": "50",
+      "ML DV": "50",
+      "HALO DV": "50",
+      "MSC DRY": "50",
+      "ONE DV": "50"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-004",
+    "grupo": "RAILS",
+    "componente_original": "TOP SIDE RAIL (FLAT)",
+    "valores": {
+      "IICL-6": "30",
+      "ML DV": "30",
+      "HALO DV": "30",
+      "MSC DRY": "30",
+      "ONE DV": "30"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-005",
+    "grupo": "RAILS",
+    "componente_original": "TOP SIDE RAIL (BOX)",
+    "valores": {
+      "IICL-6": "30",
+      "ML DV": "40",
+      "HALO DV": "30",
+      "MSC DRY": "30",
+      "ONE DV": "30"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-006",
+    "grupo": "RAILS",
+    "componente_original": "FRONT HEADERS",
+    "valores": {
+      "IICL-6": "30",
+      "ML DV": "40",
+      "HALO DV": "40",
+      "MSC DRY": "40",
+      "ONE DV": "40"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-007",
+    "grupo": "RAILS",
+    "componente_original": "REAR HEADERS",
+    "valores": {
+      "IICL-6": "35",
+      "ML DV": "40",
+      "HALO DV": "40",
+      "MSC DRY": "40",
+      "ONE DV": "40"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-008",
+    "grupo": "RAILS",
+    "componente_original": "FRONT SILL",
+    "valores": {
+      "IICL-6": "50",
+      "ML DV": "50",
+      "HALO DV": "50",
+      "MSC DRY": "50",
+      "ONE DV": "50"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-009",
+    "grupo": "RAILS",
+    "componente_original": "REAR SILL",
+    "valores": {
+      "IICL-6": "50",
+      "ML DV": "50",
+      "HALO DV": "50",
+      "MSC DRY": "50",
+      "ONE DV": "50"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-010",
+    "grupo": "POST",
+    "componente_original": "REAR POST",
+    "valores": {
+      "IICL-6": "20",
+      "ML DV": "25",
+      "HALO DV": "20",
+      "MSC DRY": "25",
+      "ONE DV": "25"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-011",
+    "grupo": "POST",
+    "componente_original": "FRONT CORNER POST",
+    "valores": {
+      "IICL-6": "20",
+      "ML DV": "25",
+      "HALO DV": "20",
+      "MSC DRY": "25",
+      "ONE DV": "25"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-012",
+    "grupo": "POST",
+    "componente_original": "J BAR",
+    "valores": {
+      "IICL-6": "270°",
+      "ML DV": "270°",
+      "HALO DV": "270°",
+      "MSC DRY": "270°",
+      "ONE DV": "270°"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-013",
+    "grupo": "PANEL",
+    "componente_original": "DOOR, SIDE AND FRONT PANEL",
+    "valores": {
+      "IICL-6": "35",
+      "ML DV": "50 cube",
+      "HALO DV": "50 cube",
+      "MSC DRY": "50 cube",
+      "ONE DV": "50 cube"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-014",
+    "grupo": "PANEL",
+    "componente_original": "FRONT PANEL ISO",
+    "valores": {
+      "IICL-6": "15 out",
+      "ML DV": "40 out",
+      "HALO DV": "40 out",
+      "MSC DRY": "40 out",
+      "ONE DV": "40 out"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-015",
+    "grupo": "PANEL",
+    "componente_original": "PANEL ISO",
+    "valores": {
+      "IICL-6": "30 out",
+      "ML DV": "40 out",
+      "HALO DV": "40 out",
+      "MSC DRY": "40 out",
+      "ONE DV": "40 out"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-016",
+    "grupo": "ROOF",
+    "componente_original": "ROOF PANEL",
+    "valores": {
+      "IICL-6": "40 cube",
+      "ML DV": "70 cube",
+      "HALO DV": "70 cube",
+      "MSC DRY": "70 cube",
+      "ONE DV": "70 cube"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-017",
+    "grupo": "ROOF",
+    "componente_original": "ROOF PANEL ISO",
+    "valores": {
+      "IICL-6": "40 out",
+      "ML DV": "40 out",
+      "HALO DV": "40 out",
+      "MSC DRY": "40 out",
+      "ONE DV": "40 out"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-018",
+    "grupo": "ROOF",
+    "componente_original": "EXTENCION PLATE",
+    "valores": {
+      "IICL-6": "40 cube",
+      "ML DV": "70 cube",
+      "HALO DV": "70 cube",
+      "MSC DRY": "70 cube",
+      "ONE DV": "70 cube"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-019",
+    "grupo": "ROOF",
+    "componente_original": "EXTENCION PLATE ISO",
+    "valores": {
+      "IICL-6": "40 out",
+      "ML DV": "40 out",
+      "HALO DV": "40 out",
+      "MSC DRY": "40 out",
+      "ONE DV": "40 out"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-020",
+    "grupo": "BASE",
+    "componente_original": "CROSS / OUTR/ FLPK/ TUN RAIL",
+    "valores": {
+      "IICL-6": "50",
+      "ML DV": "75",
+      "HALO DV": "75",
+      "MSC DRY": "75",
+      "ONE DV": "75"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-021",
+    "grupo": "BASE",
+    "componente_original": "TOP FLNG-SEP FLOOR",
+    "valores": {
+      "IICL-6": "10",
+      "ML DV": "10",
+      "HALO DV": "10",
+      "MSC DRY": "10",
+      "ONE DV": "10"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-022",
+    "grupo": "BASE",
+    "componente_original": "CROSS IN TO THE CUBE",
+    "valores": {
+      "IICL-6": "50",
+      "ML DV": "50",
+      "HALO DV": "50",
+      "MSC DRY": "50",
+      "ONE DV": "50"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-023",
+    "grupo": "BASE",
+    "componente_original": "FORK IN TO THE CUBE",
+    "valores": {
+      "IICL-6": "50",
+      "ML DV": "50",
+      "HALO DV": "50",
+      "MSC DRY": "50",
+      "ONE DV": "50"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-024",
+    "grupo": "BASE",
+    "componente_original": "TUNN IN TO THE CUBE",
+    "valores": {
+      "IICL-6": "50",
+      "ML DV": "50",
+      "HALO DV": "50",
+      "MSC DRY": "50",
+      "ONE DV": "50"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-025",
+    "grupo": "BASE",
+    "componente_original": "BOW DOWNWARDS C.FITTING",
+    "valores": {
+      "IICL-6": "15",
+      "ML DV": "15",
+      "HALO DV": "15",
+      "MSC DRY": "15",
+      "ONE DV": "15"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-026",
+    "grupo": "FLOOR",
+    "componente_original": "GOUGES DEEP",
+    "valores": {
+      "IICL-6": "15",
+      "ML DV": "15 mm",
+      "HALO DV": "15 mm",
+      "MSC DRY": "15 mm",
+      "ONE DV": "15 mm"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-027",
+    "grupo": "FLOOR",
+    "componente_original": "DEEP AND WIDTH",
+    "valores": {
+      "IICL-6": "6X150 mm",
+      "ML DV": "6x150 mm",
+      "HALO DV": "6x150 mm",
+      "MSC DRY": "5x150 mm",
+      "ONE DV": "6x150 mm"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-028",
+    "grupo": "FLOOR",
+    "componente_original": "PLANK-PANELS-HEIGHT DIF",
+    "valores": {
+      "IICL-6": "5",
+      "ML DV": "10 mm",
+      "HALO DV": "10 mm",
+      "MSC DRY": "10 mm",
+      "ONE DV": "10 mm"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  },
+  {
+    "id": "CR-029",
+    "grupo": "FLOOR",
+    "componente_original": "DOWELS (NAILS)",
+    "valores": {
+      "IICL-6": "22 mm",
+      "ML DV": "25 mm",
+      "HALO DV": "25 mm",
+      "MSC DRY": "25 mm",
+      "ONE DV": "25 mm"
+    },
+    "source_id": "tabla-navieras-img-001",
+    "estado": "referencia_no_validada"
+  }
+]
